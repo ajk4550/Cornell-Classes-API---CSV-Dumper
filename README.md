@@ -61,7 +61,8 @@ This is the first version of the tool, since this was a one time use script I do
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-
+Here is the documentation to the API
+https://classes.cornell.edu/content/SP18/api-details
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
