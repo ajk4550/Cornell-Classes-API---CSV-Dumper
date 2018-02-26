@@ -1,0 +1,124 @@
+AEM 3220: Digital Business Strategy
+AEM 3251: The Business Laboratory and New Venture Management
+AEM 3340: Women, Leadership & Entrepreneurship
+AEM 4370: Strategy and Innovation
+AEM 4380: Entrepreneurial Strategy for Technology Ventures
+AEM 4390: Technology Strategy
+BEE 4890: Entrepreneurial Management for Engineers
+ENGRG 2270: Introduction to Entrepreneurship for Engineers
+HADM 3610: Communications for Entrepreneurs
+HADM 4130: Entrepreneurial Management
+HADM 4144: Opportunity Recognition and Ideation
+HADM 4145: Developing the Strategic Business Plan
+HADM 4180: Technology for Bootstrapped Entrepreneurship
+HADM 4211: Entrepreneurial Finance
+HADM 4800: Law for Entrepreneurs
+HADM 4965: Business Plan Competition
+ILRHR 6611: Entrepreneurs and Entrepreneurial Organizations
+MAE 4340: Innovative Product Design via Digital Manufacturing
+NBA 6230: Actualizing Your Startup
+NBA 6330: Actualizing Your Startup
+NBA 5380: The Business Idea Factory
+NBA 6910: Physical Product Entrepreneurship
+PLBRG 4050: Patents, Plants, and Profits: Intellectual Property Management for Scientists and Entrepreneurs
+AEM 3249: Entrepreneurial Marketing and Strategy
+AEM 3250: Business Plan Process for New Ventures
+AEM 3251: The Business Laboratory and New Venture Management
+AEM 4370: Strategy and Innovation
+HADM 4130: Entrepreneurial Management
+HADM 4144: Opportunity Recognition and Ideation
+HADM 4211: Entrepreneurial Finance
+HADM 4800: Law for Entrepreneurs
+HADM 4145: Developing the Strategic Business Plan
+HADM 4965: Business Plan Competition
+ILRHR 4603: Work Groups and Teams
+ILROB 4230: Leadership in Organizations
+NBA 6230: Actualizing Your Startup
+NBA 6330: Actualizing Your Startup
+NBA 5380: The Business Idea Factory
+NBA 6910: Physical Product Entrepreneurship
+PLBRG 4050: Patents, Plants, and Profits: Intellectual Property Management for Scientists and Entrepreneurs
+AEM 3220: Digital Business Strategy
+AEM 3340: Women, Leadership & Entrepreneurship
+AEM 4370: Strategy and Innovation
+AEM 4380: Entrepreneurial Strategy for Technology Ventures
+AEM 4390: Technology Strategy
+BEE 4890: Entrepreneurial Management for Engineers
+HADM 3610: Communications for Entrepreneurs
+HADM 4130: Entrepreneurial Management
+HADM 4140: Corporate Entrepreneurship
+HADM 4144: Opportunity Recognition and Ideation
+NBA 5380: The Business Idea Factory
+AEM 3251: The Business Laboratory and New Venture Management
+AEM 3340: Women, Leadership & Entrepreneurship
+AEM 3380: Social Entrepreneurs, Innovators & Problem Solvers
+AEM 3381: Social Entrepreneurship Field Study
+AEM 3382: Social Entrepreneurship Field Study
+ASRC 4330: Race & Social Entrepreneurship, Food Justice and Urban Reform
+HADM 3610: Communications for Entrepreneurs
+HADM 4125: Foundations of Social Entrepreneurship
+HADM 4130: Entrepreneurial Management
+HADM 4144: Opportunity Recognition and Ideation
+HADM 4145: Developing the Strategic Business Plan
+HADM 4211: Entrepreneurial Finance
+HADM 4800: Law for Entrepreneurs
+HADM 4965: Business Plan Competition
+ILRHR 6611: Entrepreneurs and Entrepreneurial Organizations
+NBA 6230: Actualizing Your Startup
+NBA 6330: Actualizing Your Startup
+NBA 5380: The Business Idea Factory
+AEM 3251: The Business Laboratory and New Venture Management
+AEM 3340: Women, Leadership & Entrepreneurship
+AEM 3380: Social Entrepreneurs, Innovators & Problem Solvers
+AEM 3381: Social Entrepreneurship Field Study
+AEM 3382: Social Entrepreneurship Field Study
+ASRC 4330: Race & Social Entrepreneurship, Food Justice and Urban Reform
+HADM 3610: Communications for Entrepreneurs
+HADM 4125: Foundations of Social Entrepreneurship
+HADM 4130: Entrepreneurial Management
+HADM 4144: Opportunity Recognition and Ideation
+HADM 4145: Developing the Strategic Business Plan
+HADM 4211: Entrepreneurial Finance
+HADM 4800: Law for Entrepreneurs
+HADM 4965: Business Plan Competition
+NBA 5380: The Business Idea Factory
+AEM 3249: Entrepreneurial Marketing and Strategy
+AEM 3340: Women, Leadership & Entrepreneurship
+AEM 3380: Social Entrepreneurs, Innovators & Problem Solvers
+AEM 3381: Social Entrepreneurship Field Study
+AEM 3382: Social Entrepreneurship Field Study
+ASRC 4330: Race & Social Entrepreneurship, Food Justice and Urban Reform
+HADM 3610: Communications for Entrepreneurs
+HADM 4125: Foundations of Social Entrepreneurship
+HADM 4130: Entrepreneurial Management
+HADM 4140: Corporate Entrepreneurship
+HADM 4144: Opportunity Recognition and Ideation
+NBA 5380: The Business Idea Factory
+AEM 3251: The Business Laboratory and New Venture Management
+AEM 3340: Women, Leadership & Entrepreneurship
+HADM 3610: Communications for Entrepreneurs
+HADM 4130: Entrepreneurial Management
+HADM 4144: Opportunity Recognition and Ideation
+HADM 4145: Developing the Strategic Business Plan
+HADM 4211: Entrepreneurial Finance
+HADM 4800: Law for Entrepreneurs
+HADM 4965: Business Plan Competition
+NBA 5380: The Business Idea Factory
+NBA 6230: Actualizing Your Startup
+NBA 6330: Actualizing Your Startup
+AEM 3251: The Business Laboratory and New Venture Management
+AEM 3340: Women, Leadership & Entrepreneurship
+HADM 3610: Communications for Entrepreneurs
+HADM 4130: Entrepreneurial Management
+HADM 4144: Opportunity Recognition and Ideation
+HADM 4145: Developing the Strategic Business Plan
+HADM 4211: Entrepreneurial Finance
+HADM 4800: Law for Entrepreneurs
+HADM 4965: Business Plan Competition
+NBA 5380: The Business Idea Factory
+AEM 3340: Women, Leadership & Entrepreneurship
+HADM 4130: Entrepreneurial Management
+HADM 3610: Communications for Entrepreneurs
+HADM 4140: Corporate Entrepreneurship
+HADM 4144: Opportunity Recognition and Ideation
+NBA 5380: The Business Idea Factory
